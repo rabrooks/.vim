@@ -2,7 +2,7 @@ set wrap			" Turn on line wrapping
 set scrolloff=3 		" Show 3 ;ines of context around the cursor.
 
 execute pathogen#infect()        
-
+set background=light
 set title 			" Set the termianl's title
 syntax enable           	" Turn on syntax highligjting
 filetype plugin indent on	" Turn of file type detection
