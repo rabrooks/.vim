@@ -26,15 +26,12 @@ set nobackup 			" Dont' make a backup before overwriting a file.
 set nowritebackup		"And again.
 
 set expandtab			" use spaces instead of tabs
+set tabstop=2
+set shiftwidth=2
 
 set laststatus=2 
 
-colorscheme delek 
-" set tabstop
-" set shfitwidth=2
-" set list 			" This shows tabs and end of line chars
-" set ignorecase 		" Case-insensitive searching
-" set smartcase 		" But case senseitive if experession contains a capital letter
+colorscheme default 
 
 " MAPPINGS START HERE
 " These two commands stay in visual mode after using the indent keys < or >
