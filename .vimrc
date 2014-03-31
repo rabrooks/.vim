@@ -35,6 +35,10 @@ set smarttab            " use spaces instead of tabs
 " set incsearch         " highlight search results realtime 
 set nohlsearch                " disable highlighting of search
 
+set expandtab			" use spaces instead of tabs
+set tabstop=2
+set shiftwidth=2
+
 set laststatus=2 
 
 colorscheme default 
