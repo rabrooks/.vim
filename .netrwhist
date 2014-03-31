@@ -1,6 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/aaron/Rails/pride_cleaners/app/views'
-let g:netrw_dirhist_2='/Users/aaron/Rails/pride_cleaners'
-let g:netrw_dirhist_3='/Users/aaron/Projects/vim_tut'
-let g:netrw_dirhist_4='/home/rabrooks/github/msc-task-runner/watch'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/rabrooks/workspace/grunt-perl-tidy'
+let g:netrw_dirhist_2='/home/rabrooks/workspace/grunt-perl-tidy/tasks'
+let g:netrw_dirhist_3='/home/rabrooks/rails/blog'
+let g:netrw_dirhist_4='/home/rabrooks/workspace/ubuntu-unity-setup'
+let g:netrw_dirhist_5='/home/rabrooks/workspace/ubuntu-unity-setup/scripts'
+let g:netrw_dirhist_6='/home/rabrooks/workspace/ubuntu-unity-setup'
+let g:netrw_dirhist_7='/home/rabrooks/workspace/ubuntu-unity-setup/scripts'
